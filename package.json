@@ -25,5 +25,9 @@
     "./confluence": "./src/confluence.mjs",
     "./kelly": "./src/kelly.mjs",
     "./odds": "./src/odds.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/red-cup-engineering/gambling-analysis-service.git"
   }
 }
