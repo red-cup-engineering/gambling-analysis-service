@@ -10,7 +10,7 @@
   "engines": {
     "node": ">=22.18"
   },
-  "license": "UNLICENSED",
+  "license": "MIT",
   "files": [
     "src",
     "test",
@@ -29,5 +29,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/red-cup-engineering/gambling-analysis-service.git"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://github.com/561-group/.github/blob/main/TIPS.md"
   }
 }
